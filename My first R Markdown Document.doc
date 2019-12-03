@@ -1,8 +1,8 @@
 ---
-**title: "My first R Markdown Document"**
-*author: "Dilip Asarpota"*
+title: "My first R Markdown"
+author: "Dilip Asarpota"
 date: "11/29/2019"
-output: word_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
